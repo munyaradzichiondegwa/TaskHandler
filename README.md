@@ -20,7 +20,7 @@ Key functionalities include:
 - Dynamic JavaScript-rendered footer with social icons
 - Responsive, mobile-first layout
 
-**Repository:** https://github.com/munyaradzichiondegwa/TaskFlow  
+**Repository:** https://github.com/munyaradzichiondegwa/TaskHandler
 **Live Demo:** [https://task-handler-munya.netlify.app/](https://task-handler-munya.netlify.app/)  
 **Author:** Munyaradzi Chiondegwa  
 **License:** MIT  
@@ -171,9 +171,4 @@ The live demo is available here: [https://task-handler-munya.netlify.app/](https
 
 MIT License – free to use, modify, and improve.
 
-```
 
-I removed all instructional phrasing and made it read as if written from your perspective.  
-
-If you want, I can **also add badges at the top** for **GitHub stars, Netlify live demo, and license** to make the README look even more professional. Do you want me to do that next?
-```
